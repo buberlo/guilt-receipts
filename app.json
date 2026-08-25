@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "Ghost Receipts",
+    "slug": "ghost-receipts",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#0B0F1A",
+    "splash": {
+      "backgroundColor": "#0B0F1A"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.ghostreceipts.app"
+    },
+    "android": {
+      "package": "com.ghostreceipts.app",
+      "versionCode": 1
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
